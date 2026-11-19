@@ -1,12 +1,5 @@
-# QuickChat POE – Parts 1, 2 and 3
-
-## Open in NetBeans
-1. Extract this folder.
-2. In NetBeans choose **File > Open Project** and select `QuickChat_POE_Complete`.
-3. Choose **Clean and Build**, then **Run**.
-
-This is a Java with Ant project. Main class: `Main`.
-
+ POE – Parts 1, 2 and 3
+ 
 ## Implemented areas
 - Part 1: registration, username/password/cellphone validation, login.
 - Part 2: message IDs, recipient and length validation, SHA-256 message hash, send/store/disregard actions, sent-message counter.
